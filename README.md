@@ -16,7 +16,8 @@ This project demonstrates AWS infrastructure provisioning using Terraform and co
 - AWS Secrets Manager
 
 ## Architecture
-![AWS DevOps Project Architecture](architecture.png)
+![AWS DevOps Project Architecture](./architecture.png)
+
 The infrastructure includes a VPC with public and private subnets across multiple Availability Zones.
 
 - **Application Load Balancer:** Receives HTTP traffic from users.
